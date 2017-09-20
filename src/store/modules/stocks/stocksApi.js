@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import { getStockData } from '../../../helpers/api-helper'
+import { getStockData } from '../../../helpers/api-helper';
 
 const state = {
     realStockBMW: '0',
